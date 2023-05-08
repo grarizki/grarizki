@@ -2,7 +2,7 @@
 
 Raka are striving to be a Full Stack Developer, currently creating attractive and useful UI with React
 
-- 🌱 I’m currently strengthening my fundamentals with Javascript also picking up SQL along the way
+- 🌱 I’m currently strengthening my fundamentals with Javascript also picking up Databases ( SQL and NOSQL ) along the way
 
 - 📫 How to reach me:
   - [Github](https://github.com/grarizki)
